@@ -1,0 +1,135 @@
+department,aisle,items,reorder_rate_pct
+deli,tofu meat alternatives,125970,65.1
+canned goods,canned meals beans,263756,54.1
+bakery,breakfast bakery,245125,69.2
+alcohol,spirits,26846,62.0
+dairy eggs,butter,248929,61.4
+canned goods,canned jarred vegetables,289332,45.2
+household,food storage,63840,27.5
+beverages,water seltzer sparkling water,828737,77.3
+pantry,marinades meat preparation,60922,30.2
+personal care,digestion,26491,47.3
+snacks,ice cream toppings,10883,28.9
+household,plates bowls cups flatware,42653,46.8
+produce,fresh fruits,3576770,76.2
+alcohol,white wines,29141,68.6
+deli,prepared soups salads,70232,63.6
+babies,diapers wipes,24220,54.2
+deli,fresh dips tapenades,346197,65.2
+dairy eggs,milk,873300,82.7
+pantry,salad dressing toppings,96804,36.8
+breakfast,hot cereal pancake mixes,154313,53.3
+personal care,hair care,30995,26.7
+other,other,35720,43.4
+beverages,tea,244105,55.9
+bakery,tortillas flat bread,188442,59.0
+babies,baby accessories,8055,58.0
+pantry,preserved dips spreads,106081,50.5
+household,paper goods,239109,56.6
+babies,baby food formula,375598,62.0
+babies,baby bath body care,8383,31.3
+bulk,bulk dried fruits vegetables,17267,64.9
+snacks,cookies cakes,228894,58.6
+international,latino foods,73325,42.7
+dry goods pasta,fresh pasta,35706,54.3
+meat seafood,packaged poultry,115296,64.6
+beverages,cocoa drink mixes,20841,43.5
+pets,cat food care,61844,66.7
+frozen,ice cream ice,486522,52.7
+pets,dog food care,33754,60.2
+dairy eggs,cream,312468,72.4
+dairy eggs,specialty cheeses,81201,52.1
+breakfast,breakfast bars pastries,70222,62.7
+personal care,beauty,5957,23.1
+household,trash bags liners,31306,36.3
+produce,packaged vegetables fruits,1733391,68.0
+household,cleaning products,115307,31.3
+frozen,frozen meals,378334,60.3
+dairy eggs,refrigerated pudding desserts,36606,59.6
+snacks,candy chocolate,294210,60.8
+produce,packaged produce,271366,73.8
+pantry,oils vinegars,239416,37.6
+international,kosher foods,11602,42.7
+pantry,condiments,216361,33.2
+bakery,bread,571400,71.4
+pantry,honeys syrups nectars,65530,38.3
+snacks,mint gum,22271,59.6
+dry goods pasta,pasta sauce,212613,51.5
+meat seafood,poultry counter,126702,65.3
+snacks,crackers,448702,60.8
+personal care,feminine care,19351,34.6
+pantry,pickled goods olives,110027,47.9
+snacks,popcorn jerky,159725,63.2
+frozen,frozen pizza,157855,62.6
+personal care,eye ear care,8668,24.2
+dairy eggs,eggs,443708,75.1
+dairy eggs,other creams cheeses,300949,60.3
+frozen,frozen breads doughs,38973,57.8
+frozen,frozen vegan vegetarian,96830,58.5
+bakery,bakery desserts,34234,53.1
+pantry,baking ingredients,317932,32.6
+personal care,first aid,10536,21.2
+snacks,fruit vegetable snacks,172441,62.7
+personal care,protein meal replacements,35859,53.9
+frozen,frozen juice,4849,48.0
+deli,lunch meat,385825,64.8
+bulk,bulk grains rice dried goods,16904,56.3
+pantry,spreads,282751,52.0
+dry goods pasta,instant foods,196525,52.5
+household,dish detergents,92648,42.0
+meat seafood,packaged meat,33297,57.7
+household,laundry,92159,43.8
+dry goods pasta,dry pasta,259126,48.7
+frozen,frozen appetizers sides,190122,56.3
+pantry,baking supplies decor,23070,18.0
+personal care,facial care,11826,34.8
+meat seafood,seafood counter,28665,55.5
+personal care,deodorants,14479,25.9
+breakfast,granola,99504,63.6
+frozen,frozen meat seafood,70023,56.9
+personal care,skin care,10132,25.6
+deli,prepared meals,97217,65.8
+dairy eggs,yogurt,1417365,73.0
+produce,fresh herbs,369373,55.2
+bakery,buns rolls,110439,56.8
+snacks,nuts seeds dried fruit,300516,55.1
+international,asian foods,161816,37.7
+pantry,spices seasonings,206247,16.4
+personal care,cold flu allergy,25588,25.2
+personal care,vitamins supplements,44552,33.0
+snacks,chips pretzels,706695,62.8
+missing,missing,75130,40.6
+beverages,juice nectars,325957,63.3
+meat seafood,hot dogs bacon sausage,297805,59.6
+international,indian foods,15452,43.5
+canned goods,canned fruit applesauce,85745,59.9
+personal care,oral hygiene,62252,34.7
+dairy eggs,soy lactosefree,625431,73.6
+dairy eggs,packaged cheese,958080,62.4
+canned goods,canned meat seafood,65381,51.5
+frozen,frozen dessert,18656,45.8
+beverages,soft drinks,349350,68.4
+snacks,trail mix snack mix,35027,65.7
+beverages,energy sports drinks,101393,69.4
+frozen,frozen produce,509025,58.1
+alcohol,specialty wines champagnes,10683,53.2
+beverages,refrigerated,563039,70.5
+household,more household,17235,26.7
+snacks,energy granola bars,446139,63.5
+personal care,body lotions soap,39583,35.8
+alcohol,beers coolers,46524,61.5
+breakfast,cereal,367770,61.3
+personal care,shave needs,10021,28.6
+frozen,frozen breakfast,227346,66.9
+household,kitchen supplies,8897,21.1
+canned goods,soup broth bouillon,336877,45.3
+produce,fresh vegetables,3353094,63.3
+alcohol,red wines,33386,60.0
+beverages,coffee,203135,65.7
+dry goods pasta,grains rice dried goods,140388,42.7
+personal care,soap,62891,34.0
+pantry,doughs gelatins bake mixes,103410,42.2
+meat seafood,packaged seafood,20386,54.5
+personal care,muscles joints pain relief,18230,36.9
+meat seafood,meat counter,69720,56.7
+household,air fresheners candles,19436,33.4
